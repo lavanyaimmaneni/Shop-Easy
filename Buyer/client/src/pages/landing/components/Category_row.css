@@ -1,0 +1,11 @@
+.container_card{
+    width: auto;
+    height: auto;
+    margin-left: 20px;
+    margin-right: 50px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.caption{
+    text-align: center;
+}

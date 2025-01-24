@@ -1,0 +1,10 @@
+.second_row{
+    align-items: center;
+    overflow: hidden;
+   margin-top: 0px;
+  
+   box-shadow: 0px 0px 15px -5px;
+   transition: 0.45s;
+   animation: ease-in-out;
+   border-radius: 0px;
+}

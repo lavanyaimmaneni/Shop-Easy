@@ -1,0 +1,45 @@
+.search_bar{
+    padding-left: 10px;
+    margin-right: 20px;
+    
+  }
+  
+  .brand_logo{
+    margin-left: 420px;
+  }
+  .buttons_navbar{
+    margin-left: 30px;
+  }
+  .nav-item{
+    margin-right: 30px;
+  }
+  
+  .button_login{
+    margin-right: 30px;
+    
+  }
+
+  .form-control{
+    width: 450px;
+  }
+  .btn-outline-light{
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .Cart_icon{
+    align-items: center;
+    margin-top: 5px;
+  }
+
+  .fa-cart-shopping{
+    width: 40px;
+    height: 40px;
+  }
+
+  .container-fluid{
+    align-items: center;
+   
+  }
+
+  

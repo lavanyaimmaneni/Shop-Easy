@@ -1,0 +1,22 @@
+.container{
+    border: 1px solid grey;
+    margin-top: 15px;
+    width: 1000px;
+    margin-left: 250px;
+    color: white;
+    background-color: navy;
+}
+
+.field{
+    
+    border: 1px solid grey;
+}
+
+.link{
+    margin-left: 270px;
+    margin-right: 20px;
+}
+
+.greater{
+    margin-right: 20px;
+}

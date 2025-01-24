@@ -1,0 +1,30 @@
+.card-container{
+    width : 400px;
+    height: 250px;
+    overflow: hidden;
+    margin-top: 40px;
+    margin-left: 30px;
+    box-shadow: 0px 0px 15px -5px;
+    transition: 0.45s;
+    animation: ease-in-out;
+    border-radius: 0px;
+    background-size: 400px 250px;
+ }
+
+ .card-container:hover{
+    transform: scale(1.1);
+    box-shadow: 0px 0px 15px 0px;
+    
+}
+.card-content{
+    margin: 1rem;
+    margin-top: 0.3rem;
+}
+
+.card-caption{
+    padding-top: 30px;
+}
+
+.card-available{
+    padding-top: 20px;
+}

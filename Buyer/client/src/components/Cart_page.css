@@ -1,0 +1,109 @@
+
+.btn-danger{
+  background: rgb(235, 220, 220);
+  border: #52565d;
+  color: #282c34;
+  
+}
+
+/* .image {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+} */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.btn-PlaceOrder{
+  margin-left: 555px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 250px;
+  height: 50px;
+  color: rgb(255, 255, 255);
+  background: rgba(249, 118, 17, 0.938);
+  
+  
+}
+
+.SearchBar{
+  width: 300px;
+  
+  
+}
+
+.box{
+  color: #282c34;
+  width: 400px;
+  height: 500px;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+            
+}
+
+.shadow{
+  margin-left: 10px;
+  margin-top: 10px;
+  width: 400px;
+  height: 300px;
+  color: rgb(255, 255, 255);
+  background: rgba(227, 111, 23, 0.938);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/* .d-flex {
+  width: 650px;
+} */
+
+.PlaceOrder{
+   
+   margin-left: 100px;
+   
+}
+.light-text{
+  font-weight: 350;
+}
+.dropdown-menu{
+  margin-left: 50px;
+}
+.boxes {
+  margin-top: 30px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.Button_cont{
+  box-shadow: 0px 0px 15px -5px;
+  margin-right: -16px;
+  margin-left: -16px;
+  margin-top: 20px;
+  height: 60px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
